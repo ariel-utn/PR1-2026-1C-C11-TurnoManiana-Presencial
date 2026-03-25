@@ -1,0 +1,10 @@
+Algoritmo TP1_Ej15_V1
+	Leer MINUTOS
+	RMIN = MINUTOS%60
+	HORAS = (MINUTOS-RMIN)/60
+	RHORAS = HORAS%24
+	DIAS = (HORAS-RHORAS)/24
+	Escribir 'DIAS: ',DIAS
+	Escribir 'HORAS: ',RHORAS
+	Escribir 'MINUTOS: ',RMIN
+FinAlgoritmo

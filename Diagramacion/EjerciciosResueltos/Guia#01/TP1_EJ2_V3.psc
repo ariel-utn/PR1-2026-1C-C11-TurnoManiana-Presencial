@@ -1,0 +1,13 @@
+Algoritmo TP1_EJ2_V3
+	// EN ESTE DIAGRAMA UTILIZAMOS
+	// 4 VARIABLES, SI BIEN EL ENUNCIADO
+	// SUGIERE RESOLVERLO CON 3 VARIABLES
+	Leer A
+	Leer B
+	C = A
+	D = B
+	A = D
+	B = C
+	Escribir A
+	Escribir B
+FinAlgoritmo
