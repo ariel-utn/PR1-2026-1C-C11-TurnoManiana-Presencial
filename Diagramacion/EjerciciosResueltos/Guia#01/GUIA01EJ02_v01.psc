@@ -1,4 +1,4 @@
-Algoritmo TP1_EJ2_V1
+Algoritmo GUIA01EJ02_v01
 	Leer A
 	Leer B
 	C = B
